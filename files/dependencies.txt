@@ -1,0 +1,10 @@
+opencv-python
+tqdm
+numpy
+tensorflow
+keras
+matplotlib
+pandas
+seaborn
+gdown
+PIL
